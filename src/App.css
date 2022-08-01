@@ -45,7 +45,7 @@ a {
   transform: scale(1.08);
 }
 
-.grid_item {
+.grid-item {
   min-width: 3rem;
   font-size: 0.6rem;
   background-color: rgb(216, 215, 215);
@@ -79,7 +79,7 @@ a {
     transform: scale(1.1)
   }
   
-  .grid_item {
+  .grid-item {
     border-radius: 3px;
     min-width: 3.5rem;
     font-size: 0.9rem;
