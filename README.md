@@ -1,3 +1,5 @@
+<An application made to practice API calls & data flow within React>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
